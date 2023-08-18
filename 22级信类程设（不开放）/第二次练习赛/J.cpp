@@ -6,9 +6,7 @@
 #define N 100010
 using namespace std;
 int main(){
-    int date;
-    cin >> date;
-    int year,month,day;
+    int date, year,month,day,distance;
     while (cin >> date) {
       year = date / 10000;
       day  = date % 100;
