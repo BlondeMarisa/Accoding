@@ -1,0 +1,1 @@
+{"name":"Local: H","url":"d:\\Code\\CodeField\\Accoding\\22级信类程设（不开放）\\第四次上机\\H.cpp","tests":[{"id":1692669942331,"input":"5\n23 5 4248\n-21 8 7G276\n14 -22 BA9B4638\n135 351 0\n2 10 11","output":"3043301\n4502754\nB2E30BK"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\CodeField\\Accoding\\22级信类程设（不开放）\\第四次上机\\H.cpp","group":"local","local":true}

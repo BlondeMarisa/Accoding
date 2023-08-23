@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"d:\\Code\\CodeField\\Accoding\\22级信类程设（不开放）\\第六次上机\\F.cpp","tests":[{"id":1692789403942,"input":"5\n1 1 1\n1 2 10\n2 1\n3 2\n2 2","output":"1\nNot Found!"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\CodeField\\Accoding\\22级信类程设（不开放）\\第六次上机\\F.cpp","group":"local","local":true}
