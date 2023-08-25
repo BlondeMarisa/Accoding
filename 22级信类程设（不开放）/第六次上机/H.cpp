@@ -1,11 +1,18 @@
-#include <bits/stdc++.h>
+#include <ctype.h>
+#include <math.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+#define max(a, b) ((a) > (b) ? (a) : (b))
+#define min(a, b) ((a) < (b) ? (a) : (b))
 #include <iostream>
 #define eps 1e-10
 #define ll long long
 #define PI acos(-1)
 #define MOD 100000007
 #define N 100010
-using namespace std;
+
 int n, m;
 char STD[5010], ANS[5010], trash[100];
 int a[N], b[N];

@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"d:\\Code\\CodeField\\Accoding\\22级信类程设（不开放）\\第八次上机\\E.cpp","tests":[{"id":1692865191903,"input":"avoid\nevoid\ncvoid\nbvoid\ndvoid","output":"avoid\nbvoid\ncvoid\ndvoid\nevoid"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\CodeField\\Accoding\\22级信类程设（不开放）\\第八次上机\\E.cpp","group":"local","local":true}
