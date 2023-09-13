@@ -7,8 +7,12 @@
 using namespace std;
 int a[N];
 int main(){
-    int num;
-    cin >> num;
-    
+  puts("ACEGHI"); // 1
+  puts("BG"); // 2
+  puts("ABC"); // 3
+  puts("C"); // 4
+  puts("B"); // 5
+  puts("D"); // 6
+  
     return 0;
 } 

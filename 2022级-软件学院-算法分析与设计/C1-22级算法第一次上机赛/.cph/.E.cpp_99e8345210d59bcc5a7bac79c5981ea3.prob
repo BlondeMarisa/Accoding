@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"d:\\Code\\CodeField\\Accoding\\2022级-软件学院-算法分析与设计\\C1-22级算法第一次上机赛\\E.cpp","tests":[{"id":1694594402301,"input":"2\n4\n1 3 4 2\n5\n10000 1000 100 10 1","output":"1 2 3 2\n1 1 1 1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\CodeField\\Accoding\\2022级-软件学院-算法分析与设计\\C1-22级算法第一次上机赛\\E.cpp","group":"local","local":true}

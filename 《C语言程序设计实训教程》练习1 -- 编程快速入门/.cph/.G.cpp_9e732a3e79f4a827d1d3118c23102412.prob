@@ -1,0 +1,1 @@
+{"name":"Local: G","url":"d:\\Code\\CodeField\\Accoding\\《C语言程序设计实训教程》练习1 -- 编程快速入门\\G.cpp","tests":[{"id":1694594951103,"input":"94\n75\n92\n87\n86\n58\n59\n60\n88\n71\n-1","output":"Average:77\nFailed:2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\CodeField\\Accoding\\《C语言程序设计实训教程》练习1 -- 编程快速入门\\G.cpp","group":"local","local":true}

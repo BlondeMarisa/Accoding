@@ -8,7 +8,10 @@ using namespace std;
 int a[N];
 int main(){
     int num;
-    cin >> num;
-    
+    while (scanf("%d", &num) != EOF)
+    {
+      putchar(num);
+      getchar();
+   }
     return 0;
 } 

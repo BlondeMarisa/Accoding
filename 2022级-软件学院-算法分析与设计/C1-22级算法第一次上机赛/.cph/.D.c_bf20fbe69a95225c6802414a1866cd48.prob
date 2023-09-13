@@ -1,0 +1,1 @@
+{"name":"Local: D","url":"d:\\Code\\CodeField\\Accoding\\2022级-软件学院-算法分析与设计\\C1-22级算法第一次上机赛\\D.c","tests":[{"id":1694605555281,"input":"1\n3\n1 2 3\n1 2 3\n3\n2 3 4\n2 3 4","output":"4\n1 4 6 4\n1 2 3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\CodeField\\Accoding\\2022级-软件学院-算法分析与设计\\C1-22级算法第一次上机赛\\D.c","group":"local","local":true}
