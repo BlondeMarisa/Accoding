@@ -15,18 +15,14 @@ ll mypow(ll x, ll n) // x^n
   }
   return ans;
 }
+int ans[15];
 int main()
 {
   ios::sync_with_stdio(false);
   cin.tie(nullptr);
   cout.tie(nullptr);
-  int num;
-  cin >> num;
-  while (num--)
-  {
-    int n;
-    cin >> n;
-    
-}
+  a[1]=45;
+  for(int i=1;i<=)
+  cout<<a[2];
   return 0;
 }
